@@ -1,0 +1,26 @@
+.gitrepo/
+.agents/
+.codex/
+
+__pycache__/
+.ipynb_checkpoints/
+
+# Large datasets and generated training artifacts.
+DeepPCB/
+deeppcb_yolo/
+PCB-DATASET/
+pcb_yolo_dataset/
+pku-pcb-1/
+wandb/
+runs/
+
+# Model weights/checkpoints.
+*.pt
+
+# Keep only top-level summary artifacts from results/.
+results/**
+!results/
+!results/*.csv
+!results/*.json
+!results/*.png
+!results/*.md

@@ -1,0 +1,13 @@
+Class,Precision,Recall,F1,AP@50,AP@50-95,Split
+missing_hole,0.979,0.9896,0.9843,0.9762,0.5852,Validation
+mouse_bite,0.929,0.7723,0.8434,0.8672,0.4204,Validation
+open_circuit,0.9081,0.9175,0.9128,0.9722,0.4533,Validation
+short,0.9688,0.9434,0.9559,0.9836,0.4997,Validation
+spur,0.941,0.7097,0.8091,0.786,0.3968,Validation
+spurious_copper,0.9403,0.8333,0.8836,0.917,0.4435,Validation
+missing_hole,0.991,1.0,0.9955,0.995,0.5553,Test
+mouse_bite,0.8862,0.8302,0.8573,0.8464,0.4823,Test
+open_circuit,0.9307,0.8399,0.883,0.9231,0.4009,Test
+short,0.9565,0.9231,0.9395,0.9645,0.4984,Test
+spur,0.9954,0.8704,0.9287,0.9251,0.4435,Test
+spurious_copper,0.9749,0.7921,0.874,0.8921,0.4501,Test
