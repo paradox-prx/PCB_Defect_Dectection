@@ -1,0 +1,7 @@
+Class,AP@50,AP@50-95
+missing_hole,0.6881,0.3214
+mouse_bite,0.3383,0.1421
+open_circuit,0.4492,0.1537
+short,0.5744,0.2264
+spur,0.3358,0.1327
+spurious_copper,0.4198,0.1794

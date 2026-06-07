@@ -17,6 +17,9 @@ runs/
 # Model weights/checkpoints.
 *.pt
 
+# Temporary cross-dataset eval staging dirs.
+cross_tmp/
+
 # Keep only top-level summary artifacts from results/.
 results/**
 !results/

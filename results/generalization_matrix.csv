@@ -1,0 +1,7 @@
+Train,Test,mAP@50,mAP@50-95
+Run1,Run1 test,0.9244,0.4718
+Run1,Run2 test,0.4676,0.1926
+Run1,DeepPCB test,0.0,0.0
+Run2,Run1 test,0.8256,0.4253
+Run2,Run2 test,0.9931,0.6348
+Run2,DeepPCB test,0.0,0.0
