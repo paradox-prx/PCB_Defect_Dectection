@@ -1,0 +1,6 @@
+train: /home/vector/Documents/abdullah_workspace/PCB_Defect_Dectection/pcb_yolo_dataset/train/images
+val:   /home/vector/Documents/abdullah_workspace/PCB_Defect_Dectection/pcb_yolo_dataset/val/images
+test:  /home/vector/Documents/abdullah_workspace/PCB_Defect_Dectection/pcb_yolo_dataset/test/images
+
+nc: 6
+names: ['missing_hole', 'mouse_bite', 'open_circuit', 'short', 'spur', 'spurious_copper']
