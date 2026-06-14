@@ -20,6 +20,9 @@ runs/
 # Temporary cross-dataset eval staging dirs.
 cross_tmp/
 
+# Joint dataset (rebuilt from sources each run).
+joint_dataset/
+
 # Keep only top-level summary artifacts from results/.
 results/**
 !results/
