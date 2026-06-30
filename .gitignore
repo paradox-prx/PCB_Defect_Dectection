@@ -30,3 +30,4 @@ results/**
 !results/*.json
 !results/*.png
 !results/*.md
+!results/*.pdf
