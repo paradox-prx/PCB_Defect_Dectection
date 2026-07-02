@@ -1,0 +1,4 @@
+model,params_m,size_mb,accuracy,precision,recall,f1,latency_cpu_ms,latency_gpu_ms
+YOLOv11n-cls,1.5286,3.0381,1.0,1.0,1.0,1.0,2.741,1.0465
+EfficientNet-B0,4.0101,15.5664,1.0,1.0,1.0,1.0,6.8875,2.0636
+MobileNetV3-Small,1.5199,5.9171,1.0,1.0,1.0,1.0,2.4307,1.3575
